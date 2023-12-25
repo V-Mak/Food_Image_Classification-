@@ -4,7 +4,7 @@ Overview:
 This project focuses on food image classification using the Food-101 dataset, a comprehensive collection of 101 food categories, each containing 1,000 images. The goal is to develop and evaluate various machine learning models to accurately classify different food items.
 
 Project Structure:
-Custom Pizza-Steak Image Dataset Creation:
+*Custom Pizza*-Steak Image Dataset Creation:
 
 Created a custom dataset by extracting pizza and steak images from the Food-101 dataset.
 Utilized data augmentation techniques to enhance the dataset size and diversity.
