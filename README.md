@@ -36,9 +36,9 @@ Demonstrates data augmentation techniques applied to enrich the dataset.
 * Fine-tuning experiments extended to the entire dataset.
 * Full Food-101 Dataset Implementation:
 
-* Results:
+### Results:
 Comparative analysis showcasing the impact of data augmentation, transfer learning, and fine-tuning on classification accuracy.
-* Conclusion:
+### Conclusion:
 Summarizes the findings, discussing the effectiveness of various techniques employed and their implications for food image classification tasks.
-* Technologies Used:
+### Technologies Used:
 Python, TensorFlow, Keras, google colab
