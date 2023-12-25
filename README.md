@@ -1,6 +1,6 @@
 # Food_Image_Classification-
 
-Overview:
+* Overview:
 This project focuses on food image classification using the Food-101 dataset, a comprehensive collection of 101 food categories, each containing 1,000 images. The goal is to develop and evaluate various machine learning models to accurately classify different food items.
 
 Project Structure:
