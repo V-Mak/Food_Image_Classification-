@@ -30,7 +30,6 @@ Implemented fine-tuning techniques on the feature extraction model to outperform
 * Custom Pizza-Steak Dataset Creation:
 Details the process of creating a custom dataset focusing on pizza and steak images from Food-101.
 Demonstrates data augmentation techniques applied to enrich the dataset.
-* Transfer Learning and Fine-Tuning:
 * Feature Extraction with varying percentages of training data and augmentation.
 * Fine-tuning experiments on selected models using different proportions of the dataset.
 * Fine-tuning experiments extended to the entire dataset.
