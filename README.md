@@ -1,7 +1,7 @@
 # Food_Image_Classification-
 
-* Overview:
-This project focuses on food image classification using the Food-101 dataset, a comprehensive collection of 101 food categories, each containing 1,000 images. The goal is to develop and evaluate various machine learning models to accurately classify different food items.
+## Overview:
+This project focuses on food image classification using the Food-101 dataset. The Food-101 dataset is a widely used collection of images designed for food recognition and classification tasks in the field of machine learning and computer vision. It consists of 101 food categories, with each category containing 1,000 high-resolution images. This makes a grand total of 101,000 labeled images.The dataset covers a diverse range of food items from various cuisines worldwide, including fruits, vegetables, desserts, main dishes, snacks, and beverages. Each image in the dataset portrays a single food item centered in the picture, making it ideal for training and evaluating computer vision models.
 
 ## Project Structure:
 * Custom Pizza-Steak Image Dataset Creation:
